@@ -4,3 +4,5 @@ Darkmode of Processing!
 Install here..
 
 Processing/lib/theme
+
+Author: Guacamoleboy / CPHJL325
