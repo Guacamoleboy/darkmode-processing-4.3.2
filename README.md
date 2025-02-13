@@ -3,6 +3,9 @@ Darkmode of Processing!
 
 Install here..
 
-Processing/lib/theme
+Processing/..
 
-Author: Guacamoleboy / CPHJL325
+Correct path should look like this:
+Processing/lib/theme/Custom/...
+
+**Author: Guacamoleboy / CPHJL325**
