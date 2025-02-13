@@ -10,4 +10,6 @@ Processing/lib/theme/Custom/...
 
 **Author: Guacamoleboy / CPHJL325**
 
+**Visuals**
+
 ![Visuals](/DONT%20USE/1.jpg)
